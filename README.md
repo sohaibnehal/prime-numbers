@@ -10,6 +10,7 @@ A small library providing utility methods to generate or test prime numbers
 ## Usage
 
   var prime-numbers = require('prime-numbers')
+  
       generate = prime-numbers.generate;
 
 ## Methods Description
