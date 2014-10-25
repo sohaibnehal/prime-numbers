@@ -9,12 +9,11 @@ A small library providing utility methods to `generate` or `test` prime numbers
 
 ## Usage
 
-  var prime-numbers = require('prime-numbers')
-
-      generate = prime-numbers.generate;
+    var prime-numbers = require('prime-numbers')
+               generate = prime-numbers.generate
 
 ## Methods Description
 
-generate : It takes a number 'n' as an argument and returns and array of 'n' number of prime numbers
+    generate : It takes a number 'n' as an argument and returns and array of 'n' number of prime numbers
 
 
