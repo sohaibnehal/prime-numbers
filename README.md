@@ -1,16 +1,16 @@
 prime-numbers
 =========
 
-A small library providing utility methods to generate or test prime numbers
+A small library providing utility methods to `generate` or `test` prime numbers
 
 ## Installation
 
-  npm install prime-numbers --save
+    npm install prime-numbers --save
 
 ## Usage
 
   var prime-numbers = require('prime-numbers')
-  
+
       generate = prime-numbers.generate;
 
 ## Methods Description
