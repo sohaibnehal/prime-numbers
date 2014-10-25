@@ -1,0 +1,21 @@
+{
+    "author": "Sohaib",
+    "name": "generate-primes",
+    "description": "Generate Prime Numbers",
+    "version": "0.1.1",
+    "repository": {
+        "url": ""
+    },
+    "main": "./lib/main",
+    "keywords": [
+        "prime",
+        "number"
+    ],
+    "bin": {
+        "uppercaseme": "./bin/main"
+    },
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
